@@ -1,7 +1,9 @@
 <h1 align="center">
-    <a href="https://github.com/mateusVarela/calculator">🔗 Calculadora</a>
+    <a href="https://calculadoramateus.netlify.app/">🔗 Calculadora</a>
 </h1>
 <p align="center">🚀 Calculadora desenvolvida em curso</p>
+
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/69229777/144944329-793247b2-4f6f-43bd-a3ee-d819d36db655.gif)
 
 <p align="center">
  <span>Objetivo</span> •
@@ -17,6 +19,9 @@
 ### 🎯 Objetivo
 
 Esse projeto foi desenvolvido durante o curso de desenvolvimento react com a intenção de fixar o conhecimento e botar em prática conceitos aprendidos durante as aulas. 
+
+#### Para ver o resultado final pode clicar [Aqui](https://calculadoramateus.netlify.app/)
+
 
 ### 📚 Roadmap
 

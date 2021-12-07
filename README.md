@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 Calculadora</a>
+    <a href="https://github.com/mateusVarela/calculator">🔗 Calculadora</a>
 </h1>
 <p align="center">🚀 Calculadora desenvolvida em curso</p>
 
